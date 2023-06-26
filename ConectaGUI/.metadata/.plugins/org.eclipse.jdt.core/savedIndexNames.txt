@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\thiag\Downloads\ConectaGUI-20230529T235530Z-001-20230530T221449Z-001\.metadata\.plugins\org.eclipse.jdt.core
+1328201199.index
+122301753.index
+2067340210.index
+3011209426.index
+1865797976.index
